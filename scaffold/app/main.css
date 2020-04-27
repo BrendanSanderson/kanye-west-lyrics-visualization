@@ -1,0 +1,13 @@
+body {
+  align-items: center;
+  display: flex;
+  flex-direction: column; }
+
+svg {
+  position: absolute;
+  left: 0;
+  top: 0; }
+
+.slidecontainer {
+  width: 100%;
+  /* Width of the outside container */ }
